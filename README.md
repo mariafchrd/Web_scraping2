@@ -1,5 +1,6 @@
 # Web_scraping2
 using Selenium 
+
 I wanted to save the links of some Youtube videos (containing lectures of my classes),to an excel sheet so i can have acces to them even if my username and password stopped being active. Because these videos are private and only through the link i can have access to them.
 
 The goal of this project was to get past the authentication wall and get to the page that contained all of the class titles and under each one of them, all of the subunits. The text of the subunit is a link that gets you to another page that contains a Youtube link. After this information is scraped it is stored in a dataframe and then in an excel sheet on your computer.  
